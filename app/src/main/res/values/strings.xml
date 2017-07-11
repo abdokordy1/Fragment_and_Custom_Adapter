@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GoogleMap</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="color">
+        <item>Red Line</item>
+        <item>Blue Line</item>
+
+    </string-array>
+
+
+    <string name="enable">
+        0
+    </string>
+</resources>
